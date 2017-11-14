@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Intro Slider</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">안녕하세요 세뜰입니다</string>
+    <string name="slide_1_desc">세종인의 알뜰한 생활을 위한 필수 어플!</string>
+
+    <string name="slide_2_title">공구와 교내활동소식</string>
+    <string name="slide_2_desc">공구로 돈 아끼고, 교내활동으로 돈도 받고</string>
+
+    <string name="slide_3_title">알뜰살뜰 지도</string>
+    <string name="slide_3_desc">세종인만의 특별혜택도 챙겨보자!</string>
+
+    <string name="slide_4_title">커뮤니티</string>
+    <string name="slide_4_desc">중고 물품 거래 기타 커뮤니티 기능까지!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">되돌아가기</string>
+</resources>
